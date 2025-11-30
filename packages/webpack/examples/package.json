@@ -10,7 +10,7 @@
     "test": "webpack --config webpack.config.js"
   },
   "dependencies": {
-    "@ethereumjs/util": "^10.0.0",
+    "@ethereumjs/util": "^10.1.0",
     "buffer": "^6.0.3",
     "events": "^3.3.0",
     "fast-json-patch": "^3.1.1",
